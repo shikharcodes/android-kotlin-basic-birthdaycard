@@ -1,10 +1,10 @@
-# Birthday Card App
+# Birthday Card App 📱 
 
 This android application is built using Kotlin.
 
 It is a good simple app to develop while starting learning Kotlin. 
 
-## App Installation
+## ⚙ App Installation 
 
 - Fork this repository.
 - Copy the url of your forked repository and clone it on your system using git clone command.
